@@ -1,0 +1,4 @@
+0 mask on
+1 no mask
+2 empty
+3 exit

@@ -1,0 +1,5 @@
+0 man no mask
+1 man mask
+2 woman no mask
+3 woman mask
+4 empty
